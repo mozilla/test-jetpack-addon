@@ -1,0 +1,9 @@
+{
+    "name": "bens-test-addon", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "Ben Adida", 
+    "version": "0.1", 
+    "fullName": "bens-test-addon", 
+    "id": "jid1-rtIyHfTFsHHujQ", 
+    "description": "a basic add-on"
+}
